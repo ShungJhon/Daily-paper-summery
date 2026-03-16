@@ -8,19 +8,22 @@
 
 | 论文标题 | 核心领域 | 核心问题 | TL;DR | Upvotes |
 | :--- | :--- | :--- | :---: | :--- |
-| [Spatial-TTT: Streaming Visual-based Spatial Intelligence with Test-Time Training](https://huggingface.co/papers/2603.xxxxx) | CV/RL | 流式视觉空间理解 | 引入 Test-Time Training 范式，实现流式视觉空间智能推理，突破传统静态TTT限制 | **84** |
-| [DVD: Deterministic Video Depth Estimation with Generative Priors](https://huggingface.co/papers/2603.xxxxx) | CV | 视频深度估计 | 利用生成先验进行确定性视频深度估计，提升时间一致性 | **84** |
-| [Strategic Navigation or Stochastic Search? How Agents and Humans Reason Over Document Collections](https://huggingface.co/papers/2603.xxxxx) | RL/Agents | Agent reasoning | 探索 Agent 与人类在文档集合推理策略上的差异 | **42** |
-| [Neural Thickets: Diverse Task Experts Are Dense Around Pretrained Weights](https://huggingface.co/papers/2603.xxxxx) | LLM/PEFT | 参数高效微调 | 证明多样任务专家密集分布在预训练权重周围 | **51** |
-| [IndexCache: Accelerating Sparse Attention via Cross-Layer Index Reuse](https://huggingface.co/papers/2603.xxxxx) | LLM/Efficiency | 推理加速 | 通过跨层索引复用加速稀疏注意力计算 | **33** |
-| [Video-Based Reward Modeling for Computer-Use Agents](https://huggingface.co/papers/2603.xxxxx) | RL/Agents | 奖励建模 | 基于视频的奖励建模提升 computer-use Agent 能力 | **8** |
-| [ShotVerse: Advancing Cinematic Camera Control for Text-Driven Multi-Shot Video Creation](https://huggingface.co/papers/2603.xxxxx) | Generative AI | 视频生成 | 电影级可控多镜头视频生成 | **28** |
-| [One Model, Many Budgets: Elastic Latent Interfaces for Diffusion Transformers](https://huggingface.co/papers/2603.xxxxx) | Generative AI | 可控生成 | 为 Diffusion Transformer 引入弹性潜接口实现多预算生成 | **26** |
-| [XSkill: Continual Learning from Experience and Skills in Multimodal Agents](https://huggingface.co/papers/2603.xxxxx) | Multimodal/RL | 技能持续学习 | 让多模态 Agent 从经验中持续学习和提取技能 | **16** |
-| [WeEdit: A Dataset, Benchmark and Glyph-Guided Framework for Text-centric Image Editing](https://huggingface.co/papers/2603.xxxxx) | CV/Editing | 文本中心图像编辑 | Glyph 引导框架提升文本中心图像编辑质量 | **1** |
-| [GRADE: Benchmarking Discipline-Informed Reasoning in Image Editing](https://huggingface.co/papers/2603.xxxxx) | CV/Benchmark | 图像编辑推理 | 评估图像编辑中的领域知识推理 | **23** |
-| [Mobile-GS: Real-time Gaussian Splatting for Mobile Devices](https://huggingface.co/papers/2603.xxxxx) | CV/3D | 端侧渲染 | 移动端实时高斯溅射 | **2** |
-| [Trust Your Critic: Robust Reward Modeling for Image Editing](https://huggingface.co/papers/2603.xxxxx) | RL/Generative | 奖励建模 | 鲁棒的图像编辑奖励建模 | **22** |
+| [Spatial-TTT: Streaming Visual-based Spatial Intelligence with Test-Time Training](https://huggingface.co/papers/2603.12255) | CV/RL | 流式视觉空间理解 | 引入 Test-Time Training 范式，实现流式视觉空间智能推理，突破传统静态TTT限制 | **102** |
+| [Neural Thickets: Diverse Task Experts Are Dense Around Pretrained Weights](https://huggingface.co/papers/2603.12228) | LLM/PEFT | 参数高效微调 | 证明多样任务专家密集分布在预训练权重周围 | **137** |
+| [Strategic Navigation or Stochastic Search? How Agents and Humans Reason Over Document Collections](https://huggingface.co/papers/2603.12180) | RL/Agents | Agent reasoning | 探索 Agent 与人类在文档集合推理策略上的差异 | **16** |
+| [IndexCache: Accelerating Sparse Attention via Cross-Layer Index Reuse](https://huggingface.co/papers/2603.12201) | LLM/Efficiency | 推理加速 | 通过跨层索引复用加速稀疏注意力计算 | **13** |
+| [Video-Based Reward Modeling for Computer-Use Agents](https://huggingface.co/papers/2603.10178) | RL/Agents | 奖励建模 | 基于视频的奖励建模提升 computer-use Agent 能力 | **11** |
+| [ShotVerse: Advancing Cinematic Camera Control for Text-Driven Multi-Shot Video Creation](https://huggingface.co/papers/2603.11421) | Generative AI | 视频生成 | 电影级可控多镜头视频生成 | **61** |
+| [DreamVideo-Omni: Omni-Motion Controlled Multi-Subject Video Customization](https://huggingface.co/papers/2603.12257) | Generative AI | 视频生成 | 全方位运动控制的多主体视频定制 | - |
+| [Trust Your Critic: Robust Reward Modeling for Image Editing](https://huggingface.co/papers/2603.12247) | RL/Generative | 奖励建模 | 鲁棒的图像编辑奖励建模 | **25** |
+| [One Model, Many Budgets: Elastic Latent Interfaces for Diffusion Transformers](https://huggingface.co/papers/2603.12245) | Generative AI | 可控生成 | 为 Diffusion Transformer 引入弹性潜接口实现多预算生成 | **26** |
+| [XSkill: Continual Learning from Experience and Skills in Multimodal Agents](https://huggingface.co/papers/2603.12056) | Multimodal/RL | 技能持续学习 | 让多模态 Agent 从经验中持续学习和提取技能 | - |
+| [WeEdit: A Dataset, Benchmark and Glyph-Guided Framework for Text-centric Image Editing](https://huggingface.co/papers/2603.11593) | CV/Editing | 文本中心图像编辑 | Glyph 引导框架提升文本中心图像编辑质量 | - |
+| [GRADE: Benchmarking Discipline-Informed Reasoning in Image Editing](https://huggingface.co/papers/2603.12264) | CV/Benchmark | 图像编辑推理 | 评估图像编辑中的领域知识推理 | - |
+| [EVATok: Adaptive Length Video Tokenization](https://huggingface.co/papers/2603.12267) | Generative AI | 视频token化 | 自适应长度的视频tokenization用于高效视觉自回归生成 | **37** |
+| [Mobile-GS: Real-time Gaussian Splatting for Mobile Devices](https://huggingface.co/papers/2603.11531) | CV/3D | 端侧渲染 | 移动端实时高斯溅射 | - |
+| [EndoCoT: Scaling Endogenous Chain-of-Thought Reasoning in Diffusion Models](https://huggingface.co/papers/2603.12252) | Generative AI | 推理扩展 | 在扩散模型中扩展内生思维链推理 | **24** |
+| [CREATE: Testing LLMs for Associative Creativity](https://huggingface.co/papers/2603.09970) | LLM/Creativity | 联想创造力 | 测试LLM的联想创造力 | **4** |
 
 ---
 
@@ -42,16 +45,16 @@
 
 **关联分析**：
 - **Test-Time Training (TTT) 范式爆发**：Spatial-TTT 将 TTT 从静态图像扩展到流式视频理解，这是近期重要趋势
-- **Agent 训练革新**：OpenClaw-RL、Thinking to Recall 等工作探索新型 Agent 训练/推理范式
-- **视频理解与生成并进**：DVD、ShotVerse、Helios 代表视频理解与生成的双向突破
+- **Agent 训练革新**：Strategic Navigation、XSkill 等工作探索新型 Agent 训练/推理范式
+- **视频理解与生成并进**：ShotVerse、EVATok、EndoCoT 代表视频理解与生成的双向突破
+- **参数高效微调新发现**：Neural Thickets 揭示了预训练权重周围的多样任务专家分布
 
 **行业影响**：
-- **端侧部署需求旺盛**：Flash-KMeans、Mobile-GS、IndexCache 均指向高效推理
-- **Benchmark 密集发布**：GRADE、MMIE 等推动领域评估标准化
+- **端侧部署需求旺盛**：Mobile-GS、IndexCache 均指向高效推理
+- **Benchmark 密集发布**：GRADE 等推动领域评估标准化
 
 **安全伦理**：
 - 🎯 **LOKI**: Comprehensive Synthetic Data Detection Benchmark — 合成数据检测 benchmark，与 AIGC 检测工作直接相关
-- 关注 AI 生成内容检测领域的最新进展
 
 **重点关注**：
 - 🎯 **AIGC 检测**：`LOKI` 论文直接涉及合成数据检测
